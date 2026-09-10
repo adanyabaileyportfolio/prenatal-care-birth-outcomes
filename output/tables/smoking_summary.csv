@@ -1,0 +1,3 @@
+smoking_status,total_births,valid_preterm_records,preterm_births,preterm_birth_rate,valid_birth_weight_records,low_birth_weight_births,low_birth_weight_rate
+Did not smoke during pregnancy,3534051,3531913,360687,10.21,3531269,292531,8.28
+Smoked during pregnancy,86656,86415,14850,17.18,86575,14837,17.14

@@ -1,0 +1,9 @@
+variable,missing_records,total_records,missing_percent
+Gestational age,4609,3638436,0.13
+Birth weight,3106,3638436,0.09
+Prenatal-care initiation,70222,3638436,1.93
+Prenatal visits,67725,3638436,1.86
+Race and ethnicity,35805,3638436,0.98
+Education,69489,3638436,1.91
+Smoking status,17729,3638436,0.49
+Birth type,0,3638436,0

@@ -1,0 +1,8 @@
+race_ethnicity,total_births,valid_preterm_records,preterm_births,preterm_birth_rate,valid_birth_weight_records,low_birth_weight_births,low_birth_weight_rate
+Hispanic,991715,990821,99439,10.04,991168,77610,7.83
+Non-Hispanic AIAN,24033,23980,3031,12.64,24012,2167,9.02
+Non-Hispanic Asian,227183,227034,20797,9.16,227064,21682,9.55
+Non-Hispanic Black,473624,472901,70278,14.86,473118,71024,15.01
+Non-Hispanic Multiracial,91634,91590,9867,10.77,91561,8487,9.27
+Non-Hispanic NHOPI,10391,10372,1302,12.55,10389,986,9.49
+Non-Hispanic White,1784051,1782258,169095,9.49,1782927,124245,6.97

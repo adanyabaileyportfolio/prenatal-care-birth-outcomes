@@ -1,0 +1,9 @@
+education,total_births,valid_preterm_records,preterm_births,preterm_birth_rate,valid_birth_weight_records,low_birth_weight_births,low_birth_weight_rate
+8th grade or less,121181,120984,11999,9.92,121023,9514,7.86
+Associate degree,290868,290773,31679,10.89,290692,23983,8.25
+Bachelor's degree,808770,808549,70183,8.68,808358,54905,6.79
+Doctorate or professional degree,116965,116948,10089,8.63,116927,8131,6.95
+High school graduate or GED,966082,965450,110590,11.45,965392,95168,9.86
+Master's degree,386783,386703,33713,8.72,386582,26558,6.87
+"Some college, no degree",594485,594168,66541,11.2,594068,53306,8.97
+"Some high school, no diploma",283813,283547,34725,12.25,283624,30961,10.92

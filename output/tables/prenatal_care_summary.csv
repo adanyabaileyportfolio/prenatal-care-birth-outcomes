@@ -1,0 +1,5 @@
+prenatal_care_group,total_births,valid_preterm_records,preterm_births,preterm_birth_rate,valid_birth_weight_records,low_birth_weight_births,low_birth_weight_rate
+First trimester,2692072,2692072,271264,10.08,2690828,215328,8
+No prenatal care,86919,85800,20180,23.52,86540,15579,18
+Second trimester,615894,615894,61017,9.91,615537,56395,9.16
+Third trimester,173329,173329,14084,8.13,173219,12898,7.45
