@@ -175,4 +175,3 @@ The scripts will generate the cleaned data, summary tables, figures, and Tableau
 
 **Adanya Bailey**
 Computer Science, Villanova University
-Interested in biostatistics, public-health data analysis, and data visualization
