@@ -47,3 +47,22 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+# Do not upload large or raw data files
+data/raw/*
+!data/raw/.gitkeep
+
+# Optional: exclude large processed files
+data/processed/*.rds
+
+# R and RStudio files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# CDC raw data and documentation
+data/raw/*
+!data/raw/.gitkeep
+
+# Full cleaned dataset
+data/processed/*.rds
